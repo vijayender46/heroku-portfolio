@@ -1,7 +1,7 @@
 {
   "name": "portfolio_nextjs",
   "homepage": ".",
-  "root": "out/",
+  "root": "build/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
